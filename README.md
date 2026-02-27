@@ -5,7 +5,7 @@
 **データセット**：
 https://www.kaggle.com/datasets/yasserh/walmart-dataset
 
-**内容**
+**内容**：
 
 
 
@@ -15,7 +15,7 @@ https://www.kaggle.com/datasets/yasserh/walmart-dataset
 **データセット**：
 https://www.kaggle.com/datasets/shekpaul/global-superstore
 
-**内容**
+**内容**：
 
 
 ## 使用技術
