@@ -2,7 +2,7 @@
 
 ## 1 売上トレンド予測
 
-**データセット**
+**データセット**：
 https://www.kaggle.com/datasets/yasserh/walmart-dataset
 
 **内容**
@@ -12,7 +12,7 @@ https://www.kaggle.com/datasets/yasserh/walmart-dataset
 
 ## 2　顧客セグメンテーション
 
-**データセット**
+**データセット**：
 https://www.kaggle.com/datasets/shekpaul/global-superstore
 
 **内容**
