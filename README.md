@@ -16,5 +16,5 @@ https://www.kaggle.com/datasets/shekpaul/global-superstore
 **内容**
 
 
-##使用技術
+## 使用技術
 Python/SQL/統計/ML
