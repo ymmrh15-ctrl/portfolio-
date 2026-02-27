@@ -1,1 +1,1 @@
-# Data Analyst/Science Portfolio
+# Data Analyst Portfolio
